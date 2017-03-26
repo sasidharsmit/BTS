@@ -1,5 +1,5 @@
 {
-url: "http://localhost:3000/EagleMusic2.json",
-sample: "The Eagles were a British music quartet active from 1958 until the mid-1960s. They formed in 1958, at the Eagle House youth club in Knowle West, Bristol.[1]",
+url: "https://en.wikipedia.org/wiki/Eagle_(song)",
+sample: "Eagle” is a song that was recorded in 1977 by the Swedish pop group ABBA. It was the first track on the group's fifth album, ABBA",
 category: "Arts and entertainment"
 }

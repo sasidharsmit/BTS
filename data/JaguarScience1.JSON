@@ -1,5 +1,5 @@
 {
-url: "http://localhost:3000/JaguarScience1.json",
+url: "https://en.wikipedia.org/wiki/Jaguar_(supercomputer)",
 sample: "Jaguar was a petascale supercomputer built by Cray at Oak Ridge National Laboratory (ORNL) in Oak Ridge, Tennessee. The massively parallel Jaguar had a peak performance of just over 1,750 teraFLOPS (1.75 petaFLOPS",
 category: "Science and technology"
 }

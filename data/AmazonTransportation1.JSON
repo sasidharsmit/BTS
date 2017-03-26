@@ -1,5 +1,5 @@
 {
-url: "http://localhost:3000/AmazonTransportation1.json",
+url: "https://en.wikipedia.org/wiki/RMS_Amazon",
 sample: "Amazon is a 102-foot (31 m) long screw schooner ex-steam yacht built in 1885 at the private Arrow Yard of Tankerville Chamberlayne in Southampton.[1][2]...",
 category: "Transportation"
 }

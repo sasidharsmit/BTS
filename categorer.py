@@ -1,13 +1,15 @@
 from scorer import *
 
-categoryVec={'Fruit': 'apple fruit red', 'Company': 'apple company computer', 'Animal': 'jaguar leopard cat', 'Car': 'jaguar car company'}
+categoryVec={'Computing':'tablet computer graphics stylus android','Medicine':'tablet swallow granulation drug','Confectionery':'tablet candy granulation die mixing process milk','Inscription, printing and writing media':'tablet writing century use','Government and Monarchy': 'queen consort succession king regnant empress mother title haley', 'Arts and Literature': 'queen ellery radio magazine station novel', 'Music': 'queen album band club', 'Zoology': 'queen colony virgin bee ant female','Places':'amazon species basin river rainforest creek channel','Organization':'amazon store bookstore company online','Transportation':'amazon engine door yacht volvo','Computing, science and technology':'chip code sequence','Films and Television':'chip officer','Food':'chip potato','Birds':'eagle species prey','Arts and Entertainment':'eagle music film song marcus abba','Vehicles':'eagle drive chrysler brand amc','Fruit':'apple fruit tree red health','Company':'apple company employee campus','Places':'apple population people island boston','Automobile':'jaguar car electric company concept model vehicle design motor','Animal':'jaguar cat animal species predator habitat range forest hunt','Science and Technology':'jaguar system atari console'}
 
 class CategoryCard:
 
 	def __init__(self):
         	self.categorynames = categoryVec
 		self.CategoryVectors = self.populate_category_vector()
-
+	
+	# Cleaning words	
+	
 	def clean_word(self, word):
 		pattern = re.compile('[\W_]+')
 		word = pattern.sub(' ',word)
@@ -15,6 +17,8 @@ class CategoryCard:
 		word = re.sub('[^0-9a-zA-Z]+','',word)
 		word = ps.stem(word)
 		return word
+
+	# Convert category string to list
 
 	def convert_category_to_list(self, string):
 		pattern = re.compile('[\W_]+')
@@ -27,12 +31,16 @@ class CategoryCard:
 		categorylist = [str(i).strip() for i in categorylist]
 		return categorylist
 
+	# Category Frequency
+
 	def categoryFreq(self, term, category):
 			count = 0
 			for word in category.split():
 				if word == term:
 					count += 1
 			return count
+
+	# Term Frequency
 
 	def termfreq_without_filter(self, terms, category):
 			categorylist = self.convert_category_to_list(category)
@@ -41,6 +49,8 @@ class CategoryCard:
 			for i,term in enumerate(termslist):
 				temp[i] = self.categoryFreq(term, ' '.join(categorylist))
 			return temp
+	
+	# Category TF-IDF vector
 
 	def category_vec(self, category):
 			categoryls = self.convert_category_to_list(category)
@@ -60,8 +70,7 @@ class CategoryCard:
 				final = [round(tf[i]*categoryidf[i],4) for i in range(len(I.index.keys()))]
 				return final
 
-	def generateCategoryScore(self, term, document):
-		return self.term_frequency(term,document) * self.inverse_document_frequency(term)
+	# Populate CategoryCard
 
 	def populate_category_vector(self):
 			vecs = {}

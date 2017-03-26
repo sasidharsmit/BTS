@@ -1,5 +1,5 @@
 {
-url: "http://localhost:3000/AppleCompany2.json",
+url: "https://en.wikipedia.org/wiki/Apple_Inc",
 sample: "Apple is an American multinational technology company headquartered in Cupertino, California that designs, develops, and sells consumer electronics",
 category: "Company"
 }

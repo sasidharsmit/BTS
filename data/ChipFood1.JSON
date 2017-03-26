@@ -1,5 +1,5 @@
 {
-url: "http://localhost:3000/ChipFood1.json",
+url: "https://en.wikipedia.org/wiki/Potato_chip",
 sample: "A potato chip (American English) or crisp (British English) is a thin slice of potato that has been deep fried, baked, kettle-cooked, or popped until crunchy. Potato chips are commonly served as a snack, side dish, or appetizer. ..",
 category: "Food"
 }

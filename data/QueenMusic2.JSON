@@ -1,5 +1,5 @@
 {
-url: "http://localhost:3000/QueenMusic2.json",
+url: "https://en.wikipedia.org/wiki/Le_Queen",
 sample: "Le Queen is a nightclub in Paris, located on the avenue des Champs-Élysées.Once a gay nightclub, Le Queen was formerly known as "Le Central" until its closing in early 1991. It was more or less the sequel to the Parisian club "Le Boy", as it was owned by the same person.",
 category: "Music"
 }
