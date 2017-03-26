@@ -1,0 +1,18 @@
+The ViewSonic G Tablet is an Android-based tablet (slate) produced by ViewSonic Corporation, a manufacturer and provider of visual technology. It first appeared for consumer purchase at Sears on 1 November 2010.
+
+At release, it was equipped with Android 2.2 (Froyo).[2] The tablet also features a 10.1-inch (257 mm) TFT-LCD touchscreen, Wi-Fi capability, a 1.0 GHz Nvidia Tegra 2 dual-core processor and 1.3 megapixel front-facing camera.
+Hardware[edit]
+The tablet is enclosed in a black plastic body and weighs a total of 700 g (1.55 lb). The capacitive screen has a 1024×600 resolution and supports multi-touch. The device also has a flash internal storage of 16 GB and can be expanded via a microSD card. Moreover, the tablet comes with two USB ports: one is a USB mini-B 5-pin port, used for connecting the tablet to a computer with the included cable for data transfer; the other is a USB A-type port, used for attaching peripheral devices. In addition to its Nvidia Tegra 2 dual-core 1.0 GHz processor, the ViewSonic G Tablet comes with 512 MB of RAM. It does not support haptic feedback or vibrating alerts.
+
+The tablet has a 1.3 MP front-facing camera for video calling and 802.11b/g/n Wi-Fi and Bluetooth 2.1 + EDR connectivity. It also has a dock port for a future docking station or other accessories. The battery will give it 8 to 10 hours of battery life.[3]
+
+The SMB-A1002 model is manufactured by Malata which is the ODM.
+
+Software[edit]
+This tablet comes with Android 2.2 (Froyo) with the custom ViewSonic User Interface overlay (TapNTap). The tablet does not come with Android Market pre-installed and there is no Adobe Flash support out of the box despite having the Adobe Flash logo on the product packaging. However, a statement on the G Tablet's official product page states that "a version of the Adobe Flash Player Application will be available by December 19, 2010. Owners of the G Tablet will receive an automatic notice that the plug-in is available for download to further expand their web access and entertainment." On April 18, 2011, an update to the G Tablet's software was sent over the air that added the Adobe Flash Player, as well as enabling support for USB peripherals.[4]
+
+Further information: Android rooting
+The Viewsonic G Tablet is also capable of running later versions of Android. CyanogenMod is a very popular aftermarket firmware available for the G Tablet, and brings it up to Android 2.3 (Gingerbread). Other firmware images available for the G Tablet include Flashback, which run Android 3.0 (Honeycomb) and TeamDRH ICS, which runs Android 4.0 (Ice Cream Sandwich). TeamDRH has released their Dirty-Bean ROM, based on Android 4.1 (Jellybean), which is still considered an alpha release.
+
+Critical reception[edit]
+The tablet has received largely negative reviews since its release, mainly citing its poor performance on vertical viewing angles and poor user interface.[5][6] However, reviewers also noted that its relatively low price tag may be a draw for consumers. On 23 December 2010, Viewsonic released a software update that allowed use of the standard Android interface.[7]

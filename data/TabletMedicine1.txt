@@ -1,0 +1,68 @@
+A tablet is a pharmaceutical dosage form. Tablets may be defined as the solid unit dosage form of medicament or medicaments with or without suitable excipients and prepared either by molding or by compression. It comprises a mixture of active substances and excipients, usually in powder form, pressed or compacted from a powder into a solid dose. The excipients can include diluents, binders or granulating agents, glidants (flow aids) and lubricants to ensure efficient tabletting; disintegrants to promote tablet break-up in the digestive tract; sweeteners or flavours to enhance taste; and pigments to make the tablets visually attractive or aid in visual identification of an unknown tablet. A polymer coating is often applied to make the tablet smoother and easier to swallow, to control the release rate of the active ingredient, to make it more resistant to the environment (extending its shelf life), or to enhance the tablet's appearance.
+
+The compressed tablet is the most popular dosage form in use today. About two-thirds of all prescriptions are dispensed as solid dosage forms, and half of these are compressed tablets. A tablet can be formulated to deliver an accurate dosage to a specific site; it is usually taken orally, but can be administered sublingually, buccally, rectally or intravaginally. The tablet is just one of the many forms that an oral drug can take such as syrups, elixirs, suspensions, and emulsions. Medicinal tablets were originally made in the shape of a disk of whatever color their components determined, but are now made in many shapes and colors to help distinguish different medicines. Tablets are often stamped with symbols, letters, and numbers, which enable them to be identified. Sizes of tablets to be swallowed range from a few millimeters to about a centimeter.
+
+History[edit]
+Pills are thought to date back to around 1500 BC.[1] Earlier medical recipes, such as those from 4000 BC, were for liquid preparations rather than solids.[1] The first references to pills were found on papyruses in ancient Egypt, and contained bread dough, honey or grease. Medicinal ingredients, such as plant powders or spices, were mixed in and formed by hand to make little balls, or pills. In ancient Greece, such medicines were known as katapotia ("something to be swallowed"), and the Roman scholar Pliny, who lived from 23-79 AD, first gave a name to what we now call pills, calling them pilula.[1]
+
+Pills have always been difficult to swallow and efforts long have been made to make them go down easier. In medieval times, people coated pills with slippery plant substances. Another approach, used as recently as the 19th century, was to gild them in gold and silver, although this often meant that they would pass through the digestive tract with no effect.[1] In the 1800s sugar-coating and gelatin-coating was invented, as were gelatin capsules.[1]
+
+In 1843, the British painter and inventor William Brockedon was granted a patent for a machine capable of "Shaping Pills, Lozenges and Black Lead by Pressure in Dies". The device was capable of compressing powder into a tablet without use of an adhesive.[2]
+
+Types[edit]
+Pill[edit]
+Main article: Pill (pharmacy)
+
+Combined oral contraceptive pills were nicknamed "the pill" in the 1960s[citation needed]
+Today, pills include tablets, capsules, and variants thereof like caplets—essentially anything with medication that can be digested, minus the liquid forms, colloquially falls into the pill category.
+
+Caplet[edit]
+
+Variations on a common tablet design, which can be distinguished by both color and shape
+A caplet is a smooth, coated, oval-shaped medicinal tablet in the general shape of a capsule. Many caplets have an indentation running down the middle so they may be split in half easier.[3]
+
+Orally disintegrating tablet (ODT)[edit]
+
+Olanzapine ODT blister pack with "wafer" tablets that rapidly dissolve in saliva.
+An orally disintegrating tablet or orodispersible tablet (ODT), is a drug dosage form available for a limited range of over-the-counter (OTC) and prescription medications.
+
+Tabletting formulations[edit]
+In the tablet-pressing process, it is important that all ingredients be fairly dry, powdered or granular, somewhat uniform in particle size, and freely flowing. Mixed particle sized powders segregate during manufacturing operations due to different densities, which can result in tablets with poor drug or active pharmaceutical ingredient (API) content uniformity but granulation should prevent this. Content uniformity ensures that the same API dose is delivered with each tablet.
+
+Some APIs may be tableted as pure substances, but this is rarely the case; most formulations include excipients. Normally, a pharmacologically inactive ingredient (excipient) termed a binder is added to help hold the tablet together and give it strength. A wide variety of binders may be used, some common ones including lactose, dibasic calcium phosphate, sucrose, corn (maize) starch, microcrystalline cellulose, povidone polyvinylpyrrolidone and modified cellulose (for example hydroxypropyl methylcellulose and hydroxyethylcellulose).
+
+Often, an ingredient is also needed to act as a disintegrant to aid tablet dispersion once swallowed, releasing the API for absorption. Some binders, such as starch and cellulose, are also excellent disintegrants.
+
+Advantages and disadvantages[edit]
+Tablets are simple and convenient to use. They provide an accurately measured dosage of the active ingredient in a convenient portable package, and can be designed to protect unstable medications or disguise unpalatable ingredients. Colored coatings, embossed markings and printing can be used to aid tablet recognition. Manufacturing processes and techniques can provide tablets with special properties, for example, sustained release or fast dissolving formulations.
+
+Some drugs may be unsuitable for administration by the oral route. For example, protein drugs such as insulin may be denatured by stomach acids. Such drugs cannot be made into tablets. Some drugs may be deactivated by the liver when they are carried there from the gastrointestinal tract by the hepatic portal vein (the "first pass effect"), making them unsuitable for oral use. Drugs which can be taken sublingually are absorbed through the oral mucosa, so that they bypass the liver and are less susceptible to the first pass effect. The oral bioavailability of some drugs may be low due to poor absorption from the gastrointestinal tract. Such drugs may need to be given in very high doses or by injection. For drugs that need to have rapid onset, or that have severe side effects, the oral route may not be suitable. For example, salbutamol, used to treat problems in the respiratory system, can have effects on the heart and circulation if taken orally; these effects are greatly reduced by inhaling smaller doses direct to the required site of action. A proportion of the population have difficulties swallowing tablets either because they just don't like taking them or because their medical condition makes it difficult for them (dysphagia, vomiting). In such instances it may be better to consider alternative dosage form or administration route.
+
+Tablet properties[edit]
+Tablets can be made in virtually any shape, although requirements of patients and tableting machines mean that most are round, oval or capsule shaped. More unusual shapes have been manufactured but patients find these harder to swallow, and they are more vulnerable to chipping or manufacturing problems.
+
+Tablet diameter and shape are determined by the machine tooling used to produce them - a die plus an upper and a lower punch are required. This is called a station of tooling. The thickness is determined by the amount of tablet material and the position of the punches in relation to each other during compression. Once this is done, we can measure the corresponding pressure applied during compression. The shorter the distance between the punches, thickness, the greater the pressure applied during compression, and sometimes the harder the tablet. Tablets need to be hard enough that they don't break up in the bottle, yet friable enough that they disintegrate in the gastric tract.
+
+Tablets need to be strong enough to resist the stresses of packaging, shipping and handling by the pharmacist and patient. The mechanical strength of tablets is assessed using a combination of (i) simple failure and erosion tests, and (ii) more sophisticated engineering tests. The simpler tests are often used for quality control purposes, whereas the more complex tests are used during the design of the formulation and manufacturing process in the research and development phase. Standards for tablet properties are published in the various international pharmacopeias (USP/NF, EP, JP, etc.). The hardness of tablets is the principle measure of mechanical strength. Hardness is tested using a tablet hardness tester. The units for hardness have evolved since the 1930s, but are commonly measured in kilograms per square centimeter. Models of tester include the Monsanto (or Stokes) Hardness Tester from 1930, the Pfizer Hardness Tester from 1950, the Strong Cob Hardness Tester and the Heberlain (or Schleeniger) Hardness Tester.
+
+Lubricants prevent ingredients from clumping together and from sticking to the tablet punches or capsule filling machine. Lubricants also ensure that tablet formation and ejection can occur with low friction between the solid and die wall, as well as between granules, which helps in uniform filling of the die.
+
+Common minerals like talc or silica, and fats, e.g. vegetable stearin, magnesium stearate or stearic acid are the most frequently used lubricants in tablets or hard gelatin capsules.[citation needed]
+
+Manufacturing[edit]
+Manufacture of the tableting blend[edit]
+In the tablet pressing process, the main guideline is to ensure that the appropriate amount of active ingredient is in each tablet. Hence, all the ingredients should be well-mixed. If a sufficiently homogenous mix of the components cannot be obtained with simple blending processes, the ingredients must be granulated prior to compression to assure an even distribution of the active compound in the final tablet. Two basic techniques are used to granulate powders for compression into a tablet: wet granulation and dry granulation. Powders that can be mixed well do not require granulation and can be compressed into tablets through direct compression.
+
+Wet granulation[edit]
+Wet granulation is a process of using a liquid binder to lightly agglomerate the powder mixture. The amount of liquid has to be properly controlled, as over-wetting will cause the granules to be too hard and under-wetting will cause them to be too soft and friable. Aqueous solutions have the advantage of being safer to deal with than solvent-based systems but may not be suitable for drugs which are degraded by hydrolysis.
+
+Procedure
+The active ingredient and excipients are weighed and mixed.
+The wet granulate is prepared by adding the liquid binder–adhesive to the powder blend and mixing thoroughly. Examples of binders/adhesives include aqueous preparations of cornstarch, natural gums such as acacia, cellulose derivatives such as methyl cellulose, gelatin, and povidone.
+Screening the damp mass through a mesh to form pellets or granules.
+Drying the granulation. A conventional tray-dryer or fluid-bed dryer are most commonly used.
+After the granules are dried, they are passed through a screen of smaller size than the one used for the wet mass to create granules of uniform size.
+Low shear wet granulation processes use very simple mixing equipment, and can take a considerable time to achieve a uniformly mixed state. High shear wet granulation processes use equipment that mixes the powder and liquid at a very fast rate, and thus speeds up the manufacturing process. Fluid bed granulation is a multiple-step wet granulation process performed in the same vessel to pre-heat, granulate, and dry the powders. It is used because it allows close control of the granulation process.
+
+Dry granulation[edit]
+Dry granulation processes create granules by light compaction of the powder blend under low pressures. The compacts so-formed are broken up gently to produce granules (agglomerates). This process is often used when the product to be granulated is sensitive to moisture and heat. Dry granulation can be conducted on a tablet press using slugging tooling or on a roll press called a roller compactor. Dry granulation equipment offers a wide range of pressures to attain proper densification and granule formation. Dry granulation is simpler than wet granulation, therefore the cost is reduced. However, dry granulation often produces a higher percentage of fine granules, which can compromise the quality or create yield problems for the tablet. Dry granulation requires drugs or excipients with cohesive properties, and a 'dry binder' may need to be added to the formulation to facilitate the formation of granules.

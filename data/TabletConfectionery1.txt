@@ -1,0 +1,62 @@
+Tableting is a method of confectionery manufacture that shares many similarities with tablet pharmaceutical production.
+
+SweeTarts, an example of a tablet candy
+A powder or granule mixture is prepared, a die mold is filled, and then the mixture is compressed and ejected. While drug tablets are constrained to shapes that can be swallowed easily, candy tablets are chewable.
+Introduction[edit]
+The manufacture of oral solid dosage forms such as tablets is a complex multi-stage process under which the starting materials change their physical characteristics a number of times before the final dosage form is produced. Traditionally, tablets have been made by granulation, a process that imparts two primary requisites to formulate: compactibility and fluidity. Both wet granulation and dry granulation (slugging and roll compaction) are used. Regardless of whether tablets are made by direct compression or granulation, the first step, milling and mixing, is the same; subsequent steps differ. Numerous unit processes are involved in making tablets, including particle size reduction and sizing, blending, granulation, drying, compaction, and (frequently) coating. Various factors associated with these processes can seriously affect content uniformity, bioavailability, or stability.
+Dispensing[edit]
+Dispensing is the first step in any pharmaceutical manufacturing process. Dispensing is one of the most critical steps in pharmaceutical manufacturing; as during this step, the weight of each ingredient in the mixture is determined according to dose. Dispensing may be done by purely manual by hand scooping from primary containers and weighing each ingredient by hand on a weigh scale, manual weighing with material lifting assistance like Vacuum transfer and Bag lifters, manual or assisted transfer with automated weighing on weigh table, manual or assisted filling of loss-in weight dispensing system, automated dispensaries with mechanical devices such as vacuum loading system and screw feed system. Issues like weighing accuracy, dust control (laminar air flow booths, glove boxes), during manual handling, lot control of each ingredient, material movement into and out of dispensary should be considered during dispensing.
+Sizing[edit]
+The sizing (size reduction, milling, crushing, grinding, pulverization) is an important step in the process of tablet manufacturing.
+In manufacturing of compressed tablets, the mixing or blending of several solid pharmaceutical ingredients is easier and more uniform if the ingredients are about the same size. This provides a greater uniformity of dose. A fine particle size is essential in case of lubricant mixing with granules for its proper function.
+Advantages of smaller tablets are as follows:
+* Increased surface area, which may enhance an active ingredient's dissolution rate and hence bioavailability
+* Improved tablet-to-tablet content uniformity due to a larger number of particles per unit weight
+* Controlled particle size distribution of dry granulation or mix to promote better flow of mixture in tablet machine
+* Improved flow properties of raw materials
+* Improved colour and/or active ingredient dispersion in tablet excipients
+* Uniformly sized wet granulation to promote uniform drying
+The following problems may arise if the process is not controlled properly:
+* A possible change in polymorphic form of the active ingredient, rendering it less or totally inactive, or unstable.
+* A decrease in bulk density of active compound and/or excipients, which may cause flow problem and segregation in the mix.
+* An increase in surface area from size reduction may promote the adsorption of air, which may
+inhibit wettability of the drug to the extent that it becomes the limiting factor in dissolution rate.
+Various types of machine may be used for the dry sizing or milling process, depending on whether gentle screening or particle milling is needed. The range of equipment employed for this process includes:
+* Fluid energy mill
+* Colloidal mill
+* Ball mill
+* Hammer mill
+* Cutting mill
+* Roller mill
+* Conical mill
+Powder blending[edit]
+The successful mixing of powder is more difficult than mixing liquid, as perfect homogeneity is difficult to achieve. A further problem is the inherent cohesiveness and resistance to movement between the individual particles. The process is further complicated in many systems by the presence of substantial segregation influencing the powder mix. This arises from the difference in size, shape, and density of the component particles. The powder/granules blending are involved at stage of pre granulation and/or post granulation stage of tablet manufacturing. Each process of mixing has an optimum mixing time, and longer mixing may result in an undesired product. The optimum mixing time and mixing speed must be evaluated. Blending prior to compression is normally achieved in a simple tumble blender. The blender may be a fixed blender into which the powders are charged, blended and discharged. It is now common to use a bin blender. In special cases of mixing a lubricant, over mixing should be particularly monitored. The various blenders used include "V" blender, Oblicone blender, Container blender, Tumbling blender, Agitated powder blender. But nowadays to optimize the manufacturing process particularly in wet granulation the various improved equipment which combines several processing steps (mixing, granulation and/or drying) are used. They are the "Mixer granulator" and "High shear mixing machine".
+Granulation[edit]
+Following particle size reduction and blending, the formulation may be granulated, which provides homogeneity of drug distribution in blend. This process also is very important and needs experience to attain proper quality of granule before tableting, quality of granule determines the smooth and trouble free process of tablets manufacturing. If granulation is not done in a proper manner, the resulting mixture may damage the tableting press.
+Drying[edit]
+Drying is an important step in the formulation and development of a pharmaceutical product. It is important to keep the residual moisture low enough to prevent product deterioration and ensure free flowing properties. The commonly used dryers include Fluidized – bed dryer, Vacuum tray dryer, Microwave dryer, Spray dryer, Freeze dryer, Turbo - tray dryer, Pan dryer, etc.
+Tablet compression[edit]
+After the preparation of granules (in case of wet granulation) or sized slugs (in case of dry granulation) or mixing of ingredients (in case of direct compression), they are compressed to get final product. The compression is done either by single punch machine (stamping press) or by multi station machine (rotary press). The tablet press is a high-speed mechanical device. It 'squeezes' the ingredients into the required tablet shape with extreme precision. It can make the tablet in many shapes, although they are usually round or oval. Also, it can press the name of the manufacturer or the product into the top of the tablet.
+Each tablet is made by pressing the granules inside a die, made up of hardened steel. The die is a disc shape with a hole cut through its centre. The powder is compressed in the centre of the die by two hardened steel punches that fit into the top and bottom of the die. The punches and dies are fixed to a turret that spins round. As it spins, the punches are driven together by two fixed cams - an upper cam and lower cam. The top of the upper punch (the punch head) sits on the upper cam edge .The bottom of the lower punch sits on the lower cam edge.
+The shapes of the two cams determine the sequence of movements of the two punches. This sequence is repeated over and over because the turret is spinning round. The force exerted on the ingredients in the dies is very carefully controlled. This ensures that each tablet is perfectly formed. Because of the high speeds, they need very sophisticated lubrication systems. The lubricating oil is recycled and filtered to ensure a continuous supply. Common stages occurring during compression
+Stage 1: Top punch is withdrawn from the die by the upper cam Bottom punch is low in the die so powder falls in through the hole and fills the die
+Stage 2: Bottom punch moves up to adjust the powder weight-it raises and expels some powder
+Stage 3: Top punch is driven into the die by upper cam Bottom punch is raised by lower cam Both punch heads pass between heavy rollers to compress the powder
+Stage 4: Top punch is withdrawn by the upper cam Lower punch is pushed up and expels the tablet is removed from the die surface by surface plate
+Stage 5: Return to stage 1
+Auxiliary Equipment[edit]
+Granulation Feeding Device[edit]
+In many cases, speed of die table is such that the time of die under feed frame is too short to allow adequate or consistent gravity filling of die with granules, resulting in weight variation and content uniformity. These also seen with poorly flowing granules. To avoid these problems, mechanized feeder can employ to force granules into die cavity.
+Tablet weight monitoring devices[edit]
+The high rate of tablet output of modern presses requires continuous tablet weight monitoring with electronic monitoring devices such as Thomas Tablet Sentinel, Pharmakontroll or Killan control System-MC. These devices use strain gauge technology at each compression station to monitor pressure, which is then calibrated to tablet weight. And can be affected by a number of factor
+Tablet Deduster[edit]
+In almost all cases, tablets coming out of a tablet machine have excess powder on their surface which is removed by passing them through a tablet deduster.
+Fette machine[edit]
+The Fette machine is a device that chills the compression components to allow the compression of low melting point substance such as waxes and thereby making it possible to compress product with low melting points.
+Physical features of compressed tablets[edit]
+Compressed tablets can be round, oblong, or unique in shape; thick or thin; large or small in diameter; flat or convex; unscored or scored in halves, thirds, or quadrants; engraved or imprinted with an identifying symbol and/or code number; coated or uncoated; colored or uncolored; one, two, or three layered.
+Tablet diameters and shapes are determined by the die and punches used in compression. The less concave the punches, the flatter the tablets; conversely, the more concave the punches, the more convex the resulting tablets. Punches with raised impressions produce recessed impressions on the tablets; punches with recessed etchings produce tablets with raised impressions or monograms. Logos may be placed on one or on both sides of a tablet, depending on the punches.
+Packaging[edit]
+Tablets must be packaged before they can be sent out for distribution. The type of packaging will depend on the formulation of the medicine.
+Blister packs are a common form of packaging. They are safe and easy to use and the user can see the contents without opening the pack. Many pharmaceutical companies use a standard size of blister pack. This saves the cost of different tools and changing the production machinery between products. Sometimes the pack may be perforated so that individual tablets can be detached. This means that the expiry date and the drug's name must be printed on each part of the package. The blister pack itself must remain absolutely flat as it travels through the packaging processes, especially when it is inserted into a carton. Extra ribs are added to the blister pack to improve its stiffness.
+

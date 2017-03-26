@@ -1,0 +1,16 @@
+Jaguar was a petascale supercomputer built by Cray at Oak Ridge National Laboratory (ORNL) in Oak Ridge, Tennessee. The massively parallel Jaguar had a peak performance of just over 1,750 teraFLOPS (1.75 petaFLOPS). It had 224,256 x86-based AMD Opteron processor cores,[2] and operated with a version of Linux called the Cray Linux Environment.[3] Jaguar was a Cray XT5 system, a development from the Cray XT4 supercomputer.
+In both November 2009 and June 2010, TOP500, the semiannual list of the world's top 500 supercomputers, named Jaguar as the world's fastest computer. In late October 2010, the BBC reported that the Chinese supercomputer Tianhe-1A had taken over the top spot, achieving over 2.5 quadrillion calculations per second, thereby bumping Jaguar to second place. The November 2010 TOP500 list confirmed the new rankings.[4][5]
+In 2012 the Cray XT5 Jaguar was upgraded to the Cray XK7 Titan hybrid supercomputing system by adding the Gemini network interconnect and fitting 960 of the nodes with Fermi-based Nvidia GPUs.[6][7][8]
+Contents
+  [hide] 
+* 1Development
+* 2See also
+* 3References
+* 4External links
+Development[edit]
+The Jaguar system has been through a series of upgrades since installation as a 25-teraFLOPS Cray XT3 in 2005. By early 2008, Jaguar was a 263-teraFLOPS Cray XT4. In 2008, Jaguar was expanded with the addition of a 1.4-petaFLOPS Cray XT5. By 2009, after an upgrade from 2.3 GHz 4-core Barcelona AMD processors to 2.6 GHz 6-core Istanbul AMD processors, the resulting system had over 200,000 processing cores connected internally with Cray's Seastar2+ network.[9] The XT4 and XT5 parts of Jaguar are combined into a single system using an InfiniBand network that links each piece to the Spider file system.
+Jaguar's XT5 partition contains 18,688 compute nodes in addition to dedicated login/service nodes. Each XT5 compute node contains dual hex-core AMD Opteron 2435 (Istanbul) processors and 16 GB of memory. Jaguar's  system system system XT4 partition contains 7,832 compute nodes in addition to dedicated login/service nodes. Each XT4 compute node contains a quad-core AMD Opteron 1354 (Budapest) processor and 8 GB of memory. Total combined memory amounts to over 360 terabytes (TB).[10]
+Jaguar uses an external Lustre file system called Spider[11] for all file storage. The file system read/write benchmark is 240 GB/s, and it provides over 10 petabytes (PB) of storage.[12]
+Hundreds of applications have been ported to run on the Cray XT series, many of which have been scaled up to run on 20,000 to 150,000 processor cores.[13]
+The petaFLOPS Jaguar seeks to address some of the most challenging scientific problems in areas such as climate modeling, renewable energy, materials science, seismology, chemistry, astrophysics, fusion, and combustion. Annually, 80 percent of Jaguar's resources are allocated through DOE's Innovative and Novel Computational Impact on Theory and Experiment (INCITE) program, a competitively selected, peer-reviewed process open to researchers from universities, industry, government, and non-profit organizations.
+

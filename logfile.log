@@ -1,0 +1,86 @@
+Sun Mar 26 14:59:16 2017 Server Starts - localhost:8080
+{'data/AppleFruit2.txt': 0.5621, 'data/ApplePlace1.txt': 0.3064, 'data/AppleCompany2.txt': 0.5487, 'data/ApplePlace2.txt': 0.6514, 'data/TabletComputer1.txt': 0.1383, 'data/AppleCompany1.txt': 0.6336, 'data/appleFruit1.txt': 0.6216, 'data/AppleFruit3.txt': 0.7838, 'data/TabletComputer2.txt': 0.0397}
+data/AppleFruit3.txt
+data/ApplePlace2.txt
+data/AppleCompany1.txt
+data/appleFruit1.txt
+data/AppleFruit2.txt
+data/AppleCompany2.txt
+data/ApplePlace1.txt
+data/TabletComputer1.txt
+data/TabletComputer2.txt
+http://localhost:3000/AppleFruit3.json
+http://localhost:3000/AppleFruit3.json
+http://localhost:3000/ApplePlace2.json
+http://localhost:3000/ApplePlace2.json
+http://localhost:3000/AppleCompany1.json
+http://localhost:3000/AppleCompany1.json
+http://localhost:3000/AppleFruit1.json
+http://localhost:3000/AppleFruit1.json
+http://localhost:3000/AppleFruit2.json
+http://localhost:3000/AppleFruit2.json
+http://localhost:3000/AppleCompany2.json
+http://localhost:3000/AppleCompany2.json
+http://localhost:3000/ApplePlace1.json
+http://localhost:3000/ApplePlace1.json
+http://localhost:3000/TabletComputer1.json
+http://localhost:3000/TabletComputer1.json
+http://localhost:3000/TabletComputer2.json
+http://localhost:3000/TabletComputer2.json
+{}
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 53912)
+----------------------------------------
+{}
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 53913)
+----------------------------------------
+Index Page!!
+{}
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 53917)
+----------------------------------------
+{}
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 53918)
+----------------------------------------
+{'data/JaguarScience2.txt': 0.4492, 'data/JaguarAnimal2.txt': 0.742, 'data/JaguarAutomobile1.txt': 0.4201, 'data/JaguarAnimal3.txt': 0.7628, 'data/JaguarAnimal1.txt': 0.7735, 'data/AmazonPlace2.txt': 0.0251, 'data/JaguarAutomobile3.txt': 0.5049, 'data/JaguarAutomobile4.txt': 0.5578, 'data/AmazonPlace1.txt': 0.0126, 'data/JaguarScience1.txt': 0.4449, 'data/JaguarAutomobile2.txt': 0.4265}
+data/JaguarAnimal1.txt
+data/JaguarAnimal3.txt
+data/JaguarAnimal2.txt
+data/JaguarAutomobile4.txt
+data/JaguarAutomobile3.txt
+data/JaguarScience2.txt
+data/JaguarScience1.txt
+data/JaguarAutomobile2.txt
+data/JaguarAutomobile1.txt
+data/AmazonPlace2.txt
+http://localhost:3000/JaguarAnimal1.json
+http://localhost:3000/JaguarAnimal1.json
+http://localhost:3000/JaguarAnimal3.json
+http://localhost:3000/JaguarAnimal3.json
+http://localhost:3000/JaguarAnimal2.json
+http://localhost:3000/JaguarAnimal2.json
+http://localhost:3000/JaguarAutomobile4.json
+http://localhost:3000/JaguarAutomobile4.json
+http://localhost:3000/JaguarAutomobile3.json
+http://localhost:3000/JaguarAutomobile3.json
+http://localhost:3000/JaguarScience2.json
+http://localhost:3000/JaguarScience2.json
+http://localhost:3000/JaguarScience1.json
+http://localhost:3000/JaguarScience1.json
+http://localhost:3000/JaguarAutomobile2.json
+http://localhost:3000/JaguarAutomobile2.json
+http://localhost:3000/JaguarAutomobile1.json
+http://localhost:3000/JaguarAutomobile1.json
+http://localhost:3000/AmazonPlace2.json
+http://localhost:3000/AmazonPlace2.json
+{}
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 53923)
+----------------------------------------
+{}
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 53925)
+----------------------------------------
+Sun Mar 26 15:02:10 2017 Server Stops - localhost:8080

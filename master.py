@@ -1,4 +1,5 @@
 import dummy
+import querier
 import SocketServer
 import time
 import BaseHTTPServer
@@ -13,7 +14,22 @@ class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler):
         s.end_headers()
     def do_GET(s):
         output=[]
+        fullName=[]
         a,searchTerm=s.path.split('/')
+        if not searchTerm:
+            #print "Index Page!!"
+            s.send_response(200)
+            s.send_header("Content-type", "text/html")
+            s.end_headers()
+            s.wfile.write("<html><head><title>QMUL Search Engine</title>")
+            s.wfile.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">")
+            s.wfile.write("</head>")
+            s.wfile.write("<body><p></p>")
+            home='<form class="form-wrapper cf"><input type="text" name="search" placeholder="Search here..." required><button type="submit">Search</button></form>'
+            home+='<div class="container"><hgroup class="mb20"><h1>Welcome to QMUL Search Engine</h1><h2 class="lead"><strong class="text-danger">Please enter a term in the search box to start searching!'
+            home+='</strong></h2></hgroup></body>'
+            s.wfile.write(home)
+            return None
         #print searchTerm
         searchString=s.path.split('=')
         #print searchString
@@ -21,8 +37,16 @@ class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler):
             searchTerm=''.join(searchString[1])
             #print searchTerm
         searchTerm=searchTerm.lower()
-        dummy.listFiles(searchTerm,output)
-        #print output
+        #dummy.listFiles(searchTerm,output)
+        fullName=querier.search_engine_1(searchTerm,fullName)
+        #print "fullName String: " + ','.join(fullName)
+        for i in fullName:
+            #print "fullName: " + i
+            name=i.split("/")[1]
+            #print "name: " + name
+            identifier=name.split(".")[0]
+            output.append(identifier)
+        #print "output: " + ','.join(output)
         """Respond to a GET request."""
         s.send_response(200)
         s.send_header("Content-type", "text/html")
@@ -52,22 +76,23 @@ class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler):
         for sublist in splitlist:
             #print sublist
             #print 'data/'+ ''.join(sublist) +'.json'
-            fh=open('data/'+ ''.join(sublist) +'.json',"r")
+            fh=open('data/'+ ''.join(sublist) +'.JSON',"r")
             for line in fh:
                 #print line
                 if (line.lower().startswith("url".lower())):
                     url=''.join(line.split()[1])
                 if (line.lower().startswith("category".lower())):
                     category=line
-                if (line.lower().startswith("description".lower())):
+                if (line.lower().startswith("description".lower()) or line.lower().startswith("sample".lower())):
                     description=''.join(line.split(':')[1])
-            #print url
+            #print url[1:-2]
             #print category
             #print description
             fh.close()
             markup+='<section class="col-xs-12 col-sm-6 col-md-12"> <article class="search-result row">'
             markup+='<div class="col-xs-12 col-sm-12 col-md-7 excerpet"><h3><a href="'
-            markup+=url
+            markup+=url[1:-2]
+            #print url[1:-2]
             markup+='" title="">'
             markup+=searchTerm
             markup+='</a></h3><p>'
